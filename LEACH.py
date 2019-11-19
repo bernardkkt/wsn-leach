@@ -66,7 +66,7 @@ logger.addHandler(writer)
 nodes_number = 100  # number of nodes deployed in a WSN
 x_dimension = 100  # width of field
 y_dimension = 100  # length of field
-sink_xy = [50, 150]  # coordinate of sink
+sink_xy = [50, 50]  # coordinate of sink
 node_collection = list()  # all node objects in list
 
 # Get random coordinates for nodes
