@@ -1,0 +1,9 @@
+.wrapper {
+ width:1550px;
+ margin:0 auto
+}
+section {
+ width:1190px;
+ float:right;
+ padding-bottom:50px
+}
