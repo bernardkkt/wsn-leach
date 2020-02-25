@@ -427,6 +427,7 @@ header ul a strong {
 }
 section {
  width:1190px;
+ height:85vh;
  float:right;
  padding-bottom:50px
 }
